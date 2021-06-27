@@ -1,0 +1,4 @@
+.envrc
+.python-version
+.vercel/
+venv/
