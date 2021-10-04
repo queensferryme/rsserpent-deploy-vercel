@@ -1,0 +1,2 @@
+rsserpent
+rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git

@@ -1,0 +1,31 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: fregante/setup-git-user@v1
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.6
+    - name: Create Virtualenv
+      run: python -m venv venv
+    - name: Update Requirements.txt
+      run: |
+        source venv/bin/activate
+        pip install --upgrade pip
+        pip install -r rsserpent.txt
+        pip freeze > requirements.txt
+    - name: Push Updates
+      run: |
+        git add .
+        git diff-index --quiet HEAD || git commit -m "update requirements.txt (${{ github.sha }})"
+        git push
