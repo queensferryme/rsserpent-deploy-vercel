@@ -3,7 +3,7 @@ appdirs==1.4.4
 arrow==1.2.0
 async-generator==1.10
 certifi==2021.10.8
-charset-normalizer==2.0.6
+charset-normalizer==2.0.7
 contextlib2==21.6.0
 contextvars==2.4
 cssselect==1.1.0
@@ -27,7 +27,7 @@ pyquery==1.4.3
 python-dateutil==2.8.2
 rfc3986==1.5.0
 rsserpent==0.1.4
-rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@4ce420c6c3d55051d5567cfc4466290deb1e102c
+rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@db823a399e54f7b52a610eb2a1edffc9da1e6f0a
 six==1.16.0
 sniffio==1.2.0
 starlette==0.16.0
