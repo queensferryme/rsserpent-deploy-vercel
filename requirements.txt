@@ -18,7 +18,7 @@ idna==3.3
 immutables==0.16
 importlib-metadata==4.8.1
 Jinja2==3.0.2
-lxml==4.6.3
+lxml==4.6.4
 MarkupSafe==2.0.1
 pydantic==1.8.2
 pyee==8.2.2
