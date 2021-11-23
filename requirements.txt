@@ -1,4 +1,4 @@
-anyio==3.3.4
+anyio==3.4.0
 appdirs==1.4.4
 arrow==1.2.1
 async-generator==1.10
