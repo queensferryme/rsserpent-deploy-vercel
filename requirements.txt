@@ -27,7 +27,7 @@ pyquery==1.4.3
 python-dateutil==2.8.2
 rfc3986==1.5.0
 rsserpent==0.1.4
-rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@2494bbb7eb7e55a9f758adaa8e807f0171705076
+rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@9634371aa2f38b5eddc30f526a55c749bf53a165
 six==1.16.0
 sniffio==1.2.0
 starlette==0.16.0
