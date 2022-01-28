@@ -1,6 +1,6 @@
 anyio==3.5.0
 appdirs==1.4.4
-arrow==1.2.1
+arrow==1.2.2
 async-generator==1.10
 certifi==2021.10.8
 charset-normalizer==2.0.10
