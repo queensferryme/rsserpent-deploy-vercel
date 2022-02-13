@@ -3,7 +3,7 @@ appdirs==1.4.4
 arrow==1.2.2
 async-generator==1.10
 certifi==2021.10.8
-charset-normalizer==2.0.11
+charset-normalizer==2.0.12
 contextlib2==21.6.0
 contextvars==2.4
 cssselect==1.1.0
@@ -32,7 +32,7 @@ six==1.16.0
 sniffio==1.2.0
 starlette==0.16.0
 tqdm==4.62.3
-typing_extensions==4.0.1
+typing_extensions==4.1.0
 urllib3==1.26.8
 websockets==9.1
 zipp==3.6.0
