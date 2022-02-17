@@ -15,7 +15,7 @@ jobs:
     - uses: fregante/setup-git-user@v1
     - uses: actions/setup-python@v2
       with:
-        python-version: 3.6
+        python-version: 3.9
     - name: Create Virtualenv
       run: python -m venv venv
     - name: Update Requirements.txt
