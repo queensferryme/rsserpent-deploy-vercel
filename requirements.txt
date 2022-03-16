@@ -14,7 +14,7 @@ idna==3.3
 importlib-metadata==4.11.3
 Jinja2==3.0.3
 lxml==4.8.0
-MarkupSafe==2.1.0
+MarkupSafe==2.1.1
 pydantic==1.9.0
 pyee==8.2.2
 pyppeteer==0.2.6
