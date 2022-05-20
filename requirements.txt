@@ -1,7 +1,7 @@
 anyio==3.6.1
 appdirs==1.4.4
 arrow==1.2.2
-certifi==2022.5.18
+certifi==2022.5.18.1
 charset-normalizer==2.0.12
 cssselect==1.1.0
 dnspython==2.2.1
@@ -15,7 +15,7 @@ importlib-metadata==4.11.3
 Jinja2==3.1.2
 lxml==4.8.0
 MarkupSafe==2.1.1
-pydantic==1.9.0
+pydantic==1.9.1
 pyee==8.2.2
 pyppeteer==0.2.6
 pyquery==1.4.3
