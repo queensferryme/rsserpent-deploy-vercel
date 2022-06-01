@@ -13,7 +13,7 @@ httpx==0.19.0
 idna==3.3
 importlib-metadata==4.11.4
 Jinja2==3.1.2
-lxml==4.8.0
+lxml==4.9.0
 MarkupSafe==2.1.1
 pydantic==1.9.1
 pyee==8.2.2
