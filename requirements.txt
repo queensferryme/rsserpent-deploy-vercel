@@ -24,7 +24,7 @@ rfc3986==1.5.0
 rsserpent==0.1.4
 rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@3f4a00f1052b5854588130167da33f672f11fbcc
 six==1.16.0
-sniffio==1.2.0
+sniffio==1.3.0
 starlette==0.16.0
 tqdm==4.64.0
 typing_extensions==4.3.0
