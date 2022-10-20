@@ -1,4 +1,4 @@
-anyio==3.6.1
+anyio==3.6.2
 appdirs==1.4.4
 arrow==1.2.3
 certifi==2022.9.24
