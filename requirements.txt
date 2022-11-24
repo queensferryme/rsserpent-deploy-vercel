@@ -28,6 +28,6 @@ sniffio==1.3.0
 starlette==0.16.0
 tqdm==4.64.1
 typing_extensions==4.4.0
-urllib3==1.26.12
+urllib3==1.26.13
 websockets==9.1
 zipp==3.10.0
