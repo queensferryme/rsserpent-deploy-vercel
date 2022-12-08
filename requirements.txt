@@ -1,7 +1,7 @@
 anyio==3.6.2
 appdirs==1.4.4
 arrow==1.2.3
-certifi==2022.9.24
+certifi==2022.12.7
 charset-normalizer==3.0.1
 cssselect==1.2.0
 dnspython==2.2.1
